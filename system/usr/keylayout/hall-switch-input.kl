@@ -1,0 +1,3 @@
+#add for hall switch key code
+key 546   HALL_OPEN
+key 547   HALL_CLOSE
